@@ -26,5 +26,6 @@
 == Copyright
 
 Copyright:: Copyright (c) 2013 moaikids
+Copyright:: Copyright (c) 2020 gtakechan (modifications)
 License::   Apache License, Version 2.0
 
